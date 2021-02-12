@@ -1,0 +1,30 @@
+.container1{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tituloprincipal{
+    height: 31px;
+    align-content: center;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 26px;
+    margin: 20px 0;
+}
+
+.input{
+    width: 68%;
+    height: 45px;
+    border-radius: 25px;
+    border: 1.8px solid white;
+    padding: 0 15px;
+    background-color:rgba(255, 255, 255, 0.47) ;
+    color: white;
+}
+
+::placeholder { color: white; } 

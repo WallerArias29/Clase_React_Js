@@ -1,0 +1,24 @@
+.title{
+    color: white;
+    padding-left: 30px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.carousel{
+    width: 100%;
+    padding-left: 30px;
+    position: relative;
+    overflow: scroll;
+}
+
+.carousel_container{
+    margin: 70px 0;
+    display: flex;
+    white-space: nowrap;
+    padding-bottom: 10px;
+    font-size: 0px;
+    transition: 450ms transform, 450ms -webkit-transform;
+
+}
